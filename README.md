@@ -22,10 +22,10 @@ The registration form should have to following content and functionlity.
 
 ```js
 const registrationData = {
-  name: "first name last name",
-  username: "username",
-  email: "email@email.com",
-  password: "password",
+	name: "first name last name",
+	username: "username",
+	email: "email@email.com",
+	password: "password",
 };
 ```
 
